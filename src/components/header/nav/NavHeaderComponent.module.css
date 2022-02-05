@@ -1,0 +1,44 @@
+.container {
+    width: 100%;
+    border-bottom: 2px solid #F8F8F8;
+}
+.nav {
+    width: 89%;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.logo {
+    width: 21%;
+    display: flex;
+    font-family: 'Playfair Display SC', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.menuNav {
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    line-height: 16px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+.menuNav div {
+    margin-right: 32px;
+}
+
+.profile {
+    width: 20%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.profile img {
+    margin-left: 32px;
+}
