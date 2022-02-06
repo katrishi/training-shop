@@ -1,0 +1,106 @@
+.header {
+    width: 100%;
+    border-bottom: 2px solid #F8F8F8;
+}
+
+.topBar-container {
+    width: 100%;
+    background: #121212;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 12px;
+}
+
+.topBar {
+    width: 89%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.contact {
+    display: flex;
+    align-items: center;
+    opacity: 0.8;
+}
+
+.contact div:nth-child(2n+1) {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.contact div:nth-child(2) {
+    margin-right: 30px;
+}
+
+.contact div:nth-child(4) {
+    margin-right: 55px;
+}
+
+.location {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 13px;
+    letter-spacing: 0.03em;
+    opacity: 0.8;
+}
+
+.networks {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    opacity: 0.8;
+}
+
+.networks img {
+    margin-left: 12px;
+}
+
+.nav {
+    width: 89%;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.header-nav-logo {
+    width: 21%;
+    display: flex;
+    font-family: 'Playfair Display SC', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 32px;
+    color: #121212;
+    text-decoration: none;
+}
+
+.menu {
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    line-height: 16px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+.menu-item {
+    text-decoration: none;
+    color: #121212;
+}
+
+.profile {
+    width: 20%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.profile img {
+    margin-left: 32px;
+}

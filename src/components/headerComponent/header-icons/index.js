@@ -4,7 +4,11 @@ import Phone from './phone.png';
 import Instagram from './instagram.png';
 import Pinterest from './pinterest.png';
 import Twitter from './twitter.png';
-import Facebook from './facebook.png'
+import Facebook from './facebook.png';
+import Globe from './globe.png';
+import Cart from './cart.png';
+import Search from './search.png';
+import Account from './account.png'
 
 export {
     Clock,
@@ -13,5 +17,9 @@ export {
     Instagram,
     Pinterest,
     Twitter,
-    Facebook
+    Facebook,
+    Globe,
+    Cart,
+    Search,
+    Account
 };

@@ -1,12 +1,13 @@
 import React from "react";
-import { NavHeaderComponent, TopBarComponent } from '../components';
+import { HeaderComponent } from '../components';
 
-export const LayoutComponent = () => {
+export const LayoutComponent = ({children}) => {
     return (
         <div>
-            <TopBarComponent />
-            <NavHeaderComponent />
+            <div style={{marginBottom: '32px'}}>
+                <HeaderComponent />
+            </div>
+            <div>{children}</div>
         </div>
-
     )
 }
