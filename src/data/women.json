@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "img": "img1",
+        "text": "Women's tracksuit Q109",
+        "price": "30.00"
+    },
+    {
+        "id": 2,
+        "img": "img2",
+        "text": "Women's tracksuit Q109",
+        "price": "30.00"
+    },
+    {
+        "id": 3,
+        "img": "img3",
+        "text": "Women's tracksuit Q109",
+        "price": "30.00"
+    },
+    {
+        "id": 4,
+        "img": "img4",
+        "text": "Women's tracksuit Q109",
+        "price": "30.00"
+    },
+    {
+        "id": 5,
+        "img": "img5",
+        "text": "Women's tracksuit Q109",
+        "price": "30.00"
+    },
+    {
+        "id": 6,
+        "img": "img6",
+        "text": "Women's tracksuit Q109",
+        "price": "30.00"
+    },
+    {
+        "id": 7,
+        "img": "img7",
+        "text": "Women's tracksuit Q109",
+        "price": "30.00"
+    },
+    {
+        "id": 8,
+        "img": "img8",
+        "text": "Women's tracksuit Q109",
+        "price": "30.00"
+    }
+]

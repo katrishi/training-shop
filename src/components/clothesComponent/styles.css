@@ -1,0 +1,44 @@
+.clothes {
+    width: 89%;
+    margin: 0 auto;
+}
+
+.clothes-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.clothes-items-text {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    opacity: 0.6;
+    margin-top: 16px;
+}
+
+.clothes-items-price {
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.clothes-items-rating {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 12px;
+    margin-bottom: 30px;
+}
+
+.clothes-btn {
+    width: 89%;
+    margin: 0 auto;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    opacity: 0.8;
+}
